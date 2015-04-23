@@ -1,0 +1,3 @@
+Ingresar el numero para determinar si es par: 
+El numero ingresado es 253.
+El numero 253 es impar.
