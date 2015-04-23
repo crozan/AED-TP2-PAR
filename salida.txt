@@ -1,3 +1,0 @@
-Ingresar el numero para determinar si es par: 
-El numero ingresado es 159.
-El numero 159 es impar.
